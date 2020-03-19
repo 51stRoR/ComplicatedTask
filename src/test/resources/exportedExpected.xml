@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animals>
+    <animal>
+        <birthYear>2019-02-21</birthYear>
+        <color>black</color>
+    </animal>
+    <animal xsi:type="bird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <birthYear>2016-12-23</birthYear>
+        <color>white</color>
+        <species>CROW</species>
+        <eggCount>5</eggCount>
+    </animal>
+    <animal xsi:type="bird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <birthYear>2015-12-23</birthYear>
+        <color>black</color>
+        <species>EAGLE</species>
+        <eggCount>7</eggCount>
+    </animal>
+    <animal>
+        <birthYear>2000-12-23</birthYear>
+        <color>grey</color>
+    </animal>
+    <animal xsi:type="bird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <birthYear>2014-12-23</birthYear>
+        <color>red</color>
+        <species>ALBATROSS</species>
+        <eggCount>2</eggCount>
+    </animal>
+    <animal xsi:type="bird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <birthYear>2015-01-14</birthYear>
+        <color>red</color>
+        <species>WOODPECKER</species>
+        <eggCount>2</eggCount>
+    </animal>
+    <animal>
+        <birthYear>2000-12-23</birthYear>
+        <color>yellow</color>
+    </animal>
+</animals>

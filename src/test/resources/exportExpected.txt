@@ -1,0 +1,7 @@
+Animal - birthdate: 2019-02-21, animal color: black
+Bird - birtdate: 2016-12-23, bird color: white, bird species: CROW, bird egg count: 5
+Bird - birtdate: 2015-12-23, bird color: black, bird species: EAGLE, bird egg count: 7
+Animal - birthdate: 2000-12-23, animal color: grey
+Bird - birtdate: 2014-12-23, bird color: red, bird species: ALBATROSS, bird egg count: 2
+Bird - birtdate: 2015-01-14, bird color: red, bird species: WOODPECKER, bird egg count: 2
+Animal - birthdate: 2000-12-23, animal color: yellow
